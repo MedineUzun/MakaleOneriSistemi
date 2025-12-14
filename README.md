@@ -14,12 +14,3 @@ A Python application that searches academic papers from Google Scholar, generate
 - Google Scholar API
 - NLP (Natural Language Processing)
 
-## Usage
-
-```bash
-python app.py
-```
-
-## Contact
-
-Medine Uzun - [medineuzundev@gmail.com](mailto:medineuzundev@gmail.com)
